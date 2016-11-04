@@ -7,9 +7,9 @@ CompSoc (the University of Edinburgh Computing and AI Society) members and other
 
 ##Size
 
-o	318 people on mailing list 2016/2017
-o	151 paid members 2016/2017 so far
-o	1048 CompSoc Facebook group members
+ - 318 people on mailing list 2016/2017
+ - 151 paid members 2016/2017 so far
+ - 1048 CompSoc Facebook group members
 
 We'd love ideally as many members as wanted to join - a larger size justifies expanding committee which allows more dedicated people to particular subjects and so more diversity and depth. However this could increase the workload of the “Executive Committee” having to manage more people and the club could get too large for future executive committees to guarantee availability for workload levels.
 
@@ -23,18 +23,22 @@ CompSoc has a strong established network of contacts in the tech industry from s
 
 ##Accessibility
 
-How accessible are the current resources in your community?
-o	Varying dependent on the activity and venue in question.
+**How accessible are the current resources in your community?**
+Varying dependent on the activity and venue in question.
 
-Are meetings held during hours where people may be working?
-o	STMUs are Wednesdays once a month, which is when many sports clubs will be running events, and start at 6:30pm, which is only 30 minutes after the last timetabled University courses have finished which can make it difficult for members from the Science and Engineering campus (King's Buildings) to attend unless they make the very overcrowded last shuttle bus, but theoretically is after working hours. Free pizza is provided, justifying the timing clash with dinner time, but only if you get enough pizza before it runs out although if committee are aware of anyone missing out who was dependent on it for a meal, there have been occasions when more or compensatory food has been ordered for them. The committee ask for any members planning to attend with specific dietary requirements to get in touch and specific pizza orders are ordered and committee oversee it being available to the relevant member(s), but generally otherwise just half of the pizzas are vegan and vegetarian by default. 
+**Are meetings held during hours where people may be working?**
 
-Is there childcare available?
-o	No, although under 18s are allowed to attend, so children could be brought but I do not think they would enjoy being made to sit through the talks.
+STMUs are Wednesdays once a month, which is when many sports clubs will be running events, and start at 6:30pm, which is only 30 minutes after the last timetabled University courses have finished which can make it difficult for members from the Science and Engineering campus (King's Buildings) to attend unless they make the very overcrowded last shuttle bus, but theoretically is after working hours. Free pizza is provided, justifying the timing clash with dinner time, but only if you get enough pizza before it runs out although if committee are aware of anyone missing out who was dependent on it for a meal, there have been occasions when more or compensatory food has been ordered for them. The committee ask for any members planning to attend with specific dietary requirements to get in touch and specific pizza orders are ordered and committee oversee it being available to the relevant member(s), but generally otherwise just half of the pizzas are vegan and vegetarian by default. 
 
-Is there accessibility for people with disabilities?
-o	The STMUs are normally held in the Informatics Forum building ground floor which has mobility access, as collapsible chairs are used, space can easily be rearranged if necessary to accommodate for a wheelchair or other physical support, AV equipment is used to ensure that hearing aids are able to tune in, there is no additional support for visually impaired beyond standard braille lettering on signage.
-o	If other venues are used, there are currently no checks in place to ensure that they support accessibility for disabilities.
+**Is there childcare available?**
+
+No, although under 18s are allowed to attend, so children could be brought but I do not think they would enjoy being made to sit through the talks.
+
+**Is there accessibility for people with disabilities?**
+
+The STMUs are normally held in the Informatics Forum building ground floor which has mobility access, as collapsible chairs are used, space can easily be rearranged if necessary to accommodate for a wheelchair or other physical support, AV equipment is used to ensure that hearing aids are able to tune in, there is no additional support for visually impaired beyond standard braille lettering on signage.
+
+If other venues are used, there are currently no checks in place to ensure that they support accessibility for disabilities.
 
 
 ##Interests
@@ -77,22 +81,29 @@ The School of Informatics is for various historical reasons located on the human
 ##Communication
 
 Currently we have:
-o	**Emails** - Each member of the committee has an address at CompSoc which members can use to get in touch, or the all commmittee address. We have a mailing list of all current members that a newsletter is sporadically sent to.
-o	**Facebook groups** - Primarily "CompSoc Members", there are also sub groups of CompSoc Members Opportunities, one for committee and there will soon be one for hackathon info specifically. The separate one for hackathons is proposed to allow more frequent and dedicated posts about hackathons that are relevant to CompSoc members, and with the aim of trying to create a better space for members to identify who is going to different hackathons and the levels of interest in them, to try and arrange better support from CompSoc for members to attend accordingly. 
-o	**IRC** - I don't use but is surprisingly popular amongst the handful who do - I'll be trying to get an estimate of the number of active CompSoc IRC users soon! Committee does not officially use it for announcements of communication, it is primarily a space for members to members. Can be a bit cliquey for members feeling left out of the loop because they are intimidated by the tech/format of IRC. This isn't wanted or intended by the active users though, and a few have made several attempts over the last few years to create friendlier interfaces for IRC specifically to support CompSoc members, or to offer unofficial, informal guided introductions to using it. Used a lot to interact with Tardis group who are very active.
-o	[**Twitter**](https://twitter.com/compsoc) - Any commitee member can use the official Twitter account, and all are emailed interaction notifications for it, but without a dedicated member working on it, mentions can sometimes go unresponded. It isn't consistently used to post about CompSoc activities as it is dependent on who is available and willing and remembers to do so per activity.
+ 
+ - **Facebook groups** - Primarily "CompSoc Members", there are also sub groups of CompSoc Members Opportunities, one for committee and there will soon be one for hackathon info specifically. The separate one for hackathons is proposed to allow more frequent and dedicated posts about hackathons that are relevant to CompSoc members, and with the aim of trying to create a better space for members to identify who is going to different hackathons and the levels of interest in them, to try and arrange better support from CompSoc for members to attend accordingly. 
+ 
+ - **IRC** - I don't use but is surprisingly popular amongst the handful who do - I'll be trying to get an estimate of the number of active CompSoc IRC users soon! Committee does not officially use it for announcements of communication, it is primarily a space for members to members. Can be a bit cliquey for members feeling left out of the loop because they are intimidated by the tech/format of IRC. This isn't wanted or intended by the active users though, and a few have made several attempts over the last few years to create friendlier interfaces for IRC specifically to support CompSoc members, or to offer unofficial, informal guided introductions to using it. Used a lot to interact with Tardis group who are very active.
+ 
+ - [**Twitter**](https://twitter.com/compsoc) - Any commitee member can use the official Twitter account, and all are emailed interaction notifications for it, but without a dedicated member working on it, mentions can sometimes go unresponded. It isn't consistently used to post about CompSoc activities as it is dependent on who is available and willing and remembers to do so per activity.
+ 
+ - **Emails** - Each member of the committee has an address at CompSoc which members can use to get in touch, or the all commmittee address. We have a mailing list of all current members that a newsletter is sporadically sent to.
 
 
 ##Culture
 
 **How welcoming is your community to new people and new ideas?**
+
 Theoretically, very welcoming - all descriptions ever made of CompSoc reference its ideals of openness but in practice, I'm unsure. Certainly no real tensions or conflict exists or pervades the society but the committee and certain groups are often seen (based on my informal chats to people) as very cliquey, often requiring frequent CompSoc event attendance to get "in the loop" of in-jokes and references. Additionally the influx of requests from EUSA of students wanting to form independent societies in CompSoc interests BEFORE contacting CompSoc themselves to request activities or topics, suggest a lack of approachability if it is considered easier or more relevant to consider starting a whole society before talking to committee. However this could vary committee to committee, and could also be a lack of information and awareness about how to contact or request - there isn't any formal procedure for it currently? 
 
 **What happens if there is a disagreement? Are there any policies or procedures in place, and are they documented?**
-o	Yes, there are official EUSA guidelines and policies that are documented however, they are only made accessible to the “Executive Committee” (President, Treasurer, and Secretary) through the University’s documentation system normally for courses (known as LEARN, a version of the proprietary Blackboard software). I assume but could not confirm that if requested it would be made accessible to other individuals. I believe the guidelines focus on the hierarchy of responsibility and communication in the event of conflict but as I was unable at the time of writing to find a copy myself, I cannot detail further.
+
+Yes, there are official EUSA guidelines and policies that are documented however, they are only made accessible to the “Executive Committee” (President, Treasurer, and Secretary) through the University’s documentation system normally for courses (known as LEARN, a version of the proprietary Blackboard software). I assume but could not confirm that if requested it would be made accessible to other individuals. I believe the guidelines focus on the hierarchy of responsibility and communication in the event of conflict but as I was unable at the time of writing to find a copy myself, I cannot detail further.
 
 **How will you personally handle it?**
-o	If I am relevant to the conflict then I have had conflict training through the IET (Institute of Engineering and Technology) and have had a lot of experience in personal and professional situations that give me confidence to address conflict effectively, adapting my approach to the individual situation.
+
+If I am relevant to the conflict then I have had conflict training through the IET (Institute of Engineering and Technology) and have had a lot of experience in personal and professional situations that give me confidence to address conflict effectively, adapting my approach to the individual situation.
 
 
 ##Other Info
@@ -104,48 +115,56 @@ So I basically found when researching the above community assessment that there 
 Topics and societies of extended or overlapping interests are described below:
 ####EUSA Societies:
 
-o	**Engineering Innovation Society** – Started September 2016 and have no official information I could find about what exactly they actually do. Unconfirmed suggestions are that they are about ideation but how that is implemented is unclear. Potential overlapping interests with technology and hackathons but 
+ - **Engineering Innovation Society** – Started September 2016 and have no official information I could find about what exactly they actually do. Unconfirmed suggestions are that they are about ideation but how that is implemented is unclear. Potential overlapping interests with technology and hackathons but ....
 
-o	**Edinburgh University Young Scientific Researchers Association (EUYSRA)** – Society that “is an acting catalyst for undergraduate scientific innovation and research development. EUYSRA encourages undergraduates of science related degrees to pursue and develop original and independent research, through working as members of teams consisting of people of similar academic backgrounds with the possibilities of cross departmental cooperation, thereby allowing valuable skills and appreciations for scientific research to be gained. The way this differs from a regular assigned lab to be performed for a course is that the members develop and dictate the terms of their own experiments by pursuing team generated ideas. Through the brainstorming and development of experimental ideas as members of teams (usually formed within a department), templates for small scale scientific research experiments become formed, which are then presented to the research committee who evaluate whether or not to proceed with the research having considered the cost and time to be spent on each project. If acknowledged by the research committee, a team will be allocated to one of the many laboratories available to the society. Whilst under the supervision of a lab supervisor, the teams will learn about research conduct, presentation and discussion of experimental results (which later become published on the society web page).” So theoretically CompSoc cannot therefore cannot run the same format, but otherwise are safe.
+ - **Edinburgh University Young Scientific Researchers Association (EUYSRA)** – Society that “is an acting catalyst for undergraduate scientific innovation and research development. EUYSRA encourages undergraduates of science related degrees to pursue and develop original and independent research, through working as members of teams consisting of people of similar academic backgrounds with the possibilities of cross departmental cooperation, thereby allowing valuable skills and appreciations for scientific research to be gained. The way this differs from a regular assigned lab to be performed for a course is that the members develop and dictate the terms of their own experiments by pursuing team generated ideas. Through the brainstorming and development of experimental ideas as members of teams (usually formed within a department), templates for small scale scientific research experiments become formed, which are then presented to the research committee who evaluate whether or not to proceed with the research having considered the cost and time to be spent on each project. If acknowledged by the research committee, a team will be allocated to one of the many laboratories available to the society. Whilst under the supervision of a lab supervisor, the teams will learn about research conduct, presentation and discussion of experimental results (which later become published on the society web page).” So theoretically CompSoc cannot therefore cannot run the same format, but otherwise are safe.
 
-o	**Engineering Society** – Could theoretically overlap interests but only in practice run a pub crawl and Engineering Ball, and focus more on chemical and mechanical engineering than electronics or computing.
+ - **Engineering Society** – Could theoretically overlap interests but only in practice run a pub crawl and Engineering Ball, and focus more on chemical and mechanical engineering than electronics or computing.
 
-o	**MathSoc** – Many computer science students are members of both societies, although MathSoc are considerably more multidisciplinary and diverse in their membership. They have an informal social rivalry and theoretically provide competition for sponsorship from sponsors interested in supporting analytical students, but as their activities are primarily focussed on socialising, there has never been any conflict for CompSoc to run or support maths topics or events.
+ - **MathSoc** – Many computer science students are members of both societies, although MathSoc are considerably more multidisciplinary and diverse in their membership. They have an informal social rivalry and theoretically provide competition for sponsorship from sponsors interested in supporting analytical students, but as their activities are primarily focussed on socialising, there has never been any conflict for CompSoc to run or support maths topics or events.
 
-o	**SynBio Society** – Synthetic biology might not appear to be an area of overlapping interest for CompSoc but many SynBio members are also CompSoc as they require computer science skills and knowledge to enter a team into the annual iGEM competition and their “About” page and recruiting explicitly targets with the phrase “Computer scientist, how would you model such a system?”. Cooperative overlap though, with them offering to give interesting talks on computing in synthetic biology to recruit members.
+ - **SynBio Society** – Synthetic biology might not appear to be an area of overlapping interest for CompSoc but many SynBio members are also CompSoc as they require computer science skills and knowledge to enter a team into the annual iGEM competition and their “About” page and recruiting explicitly targets with the phrase “Computer scientist, how would you model such a system?”. Cooperative overlap though, with them offering to give interesting talks on computing in synthetic biology to recruit members.
 
-o	**Cognitive Science Society** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **Cognitive Science Society** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**LangSoc** - Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **LangSoc** - Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**CreateSoc** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **CreateSoc** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**Games Development Society** – Currently in rebooted form after slowly dissipating in recent years. It is being run by CompSoc members and are very interested in collaboration. I believ they did seek and receive CompSoc approval to EUSA for forming an independent society with overlap, and so CompSoc should consult them before doing things with Games Development.
+ - **Games Development Society** – Currently in rebooted form after slowly dissipating in recent years. It is being run by CompSoc members and are very interested in collaboration. I believ they did seek and receive CompSoc approval to EUSA for forming an independent society with overlap, and so CompSoc should consult them before doing things with Games Development.
 
-o	**Design Society** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **Design Society** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**Society for Quantitative Research** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **Society for Quantitative Research** – Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**Entrepreneurship Society** - Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
+ - **Entrepreneurship Society** - Exist, for topics of potential overlapping interest but have never interacted with CompSoc previously that I could discover.
 
-o	**GameSoc** - Exist and have done a few collaborative social events in the past but sporadically as GameSoc are more socially-oriented.
+ - **GameSoc** - Exist and have done a few collaborative social events in the past but sporadically as GameSoc are more socially-oriented.
 
 
 ####Non-EUSA Societies:
 
-o	**Hoppers** – Women in Informatics. Career events, lab lunches, etc. An informal group.
-o	[**Tardis**](https://wiki.tardis.ed.ac.uk/index.php/Main_Page) – "The Tardis Project is a computing facility, run and maintained by students of The University of Edinburgh. It was one of the first such projects of its kind, founded in 1987 by the School of Informatics (previously Department of Computer Science) and is still held in high regard. Tardis provides services to members of the University, such as web hosting and mail access. One of the Tardis Project's main aims is to allow students at the university to be involved in running a large computing system, and learn the experience required to design, build and maintain such a system."
-o	**Machine Learning Society** – Not officially registered with EUSA, despite an application rejected by CompSoc last year, but still holds occasional meetings and a Facebook group, consistently made of post-graduate students who felt that CompSoc was more for undergraduates, and not sufficiently specialised enough for their interests. Showed no interest in becoming a SIG.
-o	**British Computing Society local chapter** - So we don't have a local student chapter here in Edinburgh but the BCS got in touch with CompSoc over summer to ask if we were interested in becoming one but the decision was made that it wasn't in CompSoc's interests to do so.
-o	**After Hours Electronics Club** - School of Engineering Electrical and Electronics lecturer and legend Martin Reekie runs an out of hours 'club' in which members have access to the elctronics lab and equipment and staff supervision and support as long as you are not working on coursework. However because of logistics and insurance the club is limited to about 30 members, and so are chosen by Reekie on a case by case basis. Currently has no Informatics student members, only Engineering students, in part because it hasn't been advertised to them (although I confirmed they are welcome to join) and also because it is based at King's Buildings which Informatics students think is far away. 
-o	**Robotics Society** – Nearly every couple of years someone attempts to make a robotics society but each time insufficient momentum and unclear goals mean it never really gets further than an initial meeting. Interestingly, these attempts are normally either made and advertised to electronics and electrical engineering students only OR informatics students only and I could find no evidence of a group in either department ever attempting communicating to another, perhaps unaware of their existence? No attempts appear to be currently active but one (engineering students) was made last academic year (2015/2016).
-o	**Entrepreneurship Club (eClub)** – University School of Business club running regular talks on a Monday night from guest speakers ranging widely in content. Membership is free and open to anyone, taking mostly the form of a newsletter and simply attending events. Have a huge network and useful and enthusiastic staff. CompSoc may have worked with them in the past?
+ - **Hoppers** – Women in Informatics. Career events, lab lunches, etc. An informal group.
+ 
+ - [**Tardis**](https://wiki.tardis.ed.ac.uk/index.php/Main_Page) – "The Tardis Project is a computing facility, run and maintained by students of The University of Edinburgh. It was one of the first such projects of its kind, founded in 1987 by the School of Informatics (previously Department of Computer Science) and is still held in high regard. Tardis provides services to members of the University, such as web hosting and mail access. One of the Tardis Project's main aims is to allow students at the university to be involved in running a large computing system, and learn the experience required to design, build and maintain such a system."
+ 
+ - **Machine Learning Society** – Not officially registered with EUSA, despite an application rejected by CompSoc last year, but still holds occasional meetings and a Facebook group, consistently made of post-graduate students who felt that CompSoc was more for undergraduates, and not sufficiently specialised enough for their interests. Showed no interest in becoming a SIG.
+ 
+ - **British Computing Society local chapter** - So we don't have a local student chapter here in Edinburgh but the BCS got in touch with CompSoc over summer to ask if we were interested in becoming one but the decision was made that it wasn't in CompSoc's interests to do so.
+ 
+ - **After Hours Electronics Club** - School of Engineering Electrical and Electronics lecturer and legend Martin Reekie runs an out of hours 'club' in which members have access to the elctronics lab and equipment and staff supervision and support as long as you are not working on coursework. However because of logistics and insurance the club is limited to about 30 members, and so are chosen by Reekie on a case by case basis. Currently has no Informatics student members, only Engineering students, in part because it hasn't been advertised to them (although I confirmed they are welcome to join) and also because it is based at King's Buildings which Informatics students think is far away. 
+ 
+ - **Robotics Society** – Nearly every couple of years someone attempts to make a robotics society but each time insufficient momentum and unclear goals mean it never really gets further than an initial meeting. Interestingly, these attempts are normally either made and advertised to electronics and electrical engineering students only OR informatics students only and I could find no evidence of a group in either department ever attempting communicating to another, perhaps unaware of their existence? No attempts appear to be currently active but one (engineering students) was made last academic year (2015/2016).
+ 
+ - **Entrepreneurship Club (eClub)** – University School of Business club running regular talks on a Monday night from guest speakers ranging widely in content. Membership is free and open to anyone, taking mostly the form of a newsletter and simply attending events. Have a huge network and useful and enthusiastic staff. CompSoc may have worked with them in the past?
 
 
 ####CompSoc SIGs:
-o	**CyberSecurity SIG** – Started this month (October 2016) for the first time after EUSA approached the committee about a request to create a new society. CompSoc rejected the society application on the premise that the organisers had never approached CompSoc to investigate the possibility of further internal support for the topic and so a SIG was created as a compromise.
-o	**HackSIG** – Founded April 2016 to enable more dedicated support for hackathons
-o	**WebSIG** – Founded with the aim to be supporting and developing [the official CompSoc website](http://comp-soc.com/ ), working closely with Tardis who host and maintain the site. 
+
+ - **CyberSecurity SIG** – Started this month (October 2016) for the first time after EUSA approached the committee about a request to create a new society. CompSoc rejected the society application on the premise that the organisers had never approached CompSoc to investigate the possibility of further internal support for the topic and so a SIG was created as a compromise.
+ - **HackSIG** – Founded April 2016 to enable more dedicated support for hackathons. I'm the President (a role also known as HackSec)! Currently looking to run one small hackathon in January with ARM and the IET to help Informatics students build their electronics skills, and then HackTheBurgh hackathon plan in March with MLH.
+
+ - **WebSIG** – Founded with the aim to be supporting and developing [the official CompSoc website](http://comp-soc.com/ ), working closely with Tardis who host and maintain the site. 
 
 I have to admit, I had absolutely no idea that half of these societies existed until now, nor could I find in the short space of this week what several of them even do but will be investigating further (so watch this space for further updates). I was considering making some kind of open sourced Venn diagram or survey to make one from so that I could invite committees and/or members of all the relevant societies to fill topics or keywords for their society bubble and see where we overlap specifically?
 

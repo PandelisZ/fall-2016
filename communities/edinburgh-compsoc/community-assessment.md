@@ -24,6 +24,7 @@ CompSoc has a strong established network of contacts in the tech industry from s
 ##Accessibility
 
 **How accessible are the current resources in your community?**
+
 Varying dependent on the activity and venue in question.
 
 **Are meetings held during hours where people may be working?**
@@ -47,7 +48,7 @@ CompSoc is officially registered as an “academic society” for “Computing a
 
 The Edinburgh University Student Association (EUSA) who oversee clubs and societies at the University have a policy of not allowing the creation of societies with overlapping interests without explicit permission of the existing society and so CompSoc is made aware of the attempts. If there is sufficient interest within a EUSA society for a subset of the topics covered to be explored in more depth but insufficient substance or too much overlap for an independent society then a “Special Interest Group” (SIG) can be created. 
 
-Therefore the boundaries of the topics covered by CompSoc have been discussed recently as there have however been conflicts over the last couple of years whereby new societies have been created, or attempts made to create them, in overlapping interests. Equally, CompSoc has to respect the boundaries of other existing societies, either by collaboration or avoidance. I found 16 other EUSA societies, 5 other no-EUSA clubs, and we have 3 SIGs at the moment.
+Therefore the boundaries of the topics covered by CompSoc have been discussed recently as there have however been conflicts over the last couple of years whereby new societies have been created, or attempts made to create them, in overlapping interests. Equally, CompSoc has to respect the boundaries of other existing societies, either by collaboration or avoidance. I found several other EUSA societies, other non-EUSA clubs, and we have 3 SIGs at the moment. (See the Other Info section for more details)
 
 ##Goals
 

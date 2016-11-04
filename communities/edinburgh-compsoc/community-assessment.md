@@ -445,3 +445,11 @@ If you think you need technical/programming/informatics/blah skills to enjoy Com
 
 -Your CompSoc Committee 2016-2017
 ```
+###6. Organisation structure
+
+How are your clubs/societies/communities structured?
+- Do you have a fixed leadership team?
+- How do people end up on the team? Are people elected onto that team, or is it formed of people who actively take part, etc?
+- How do you manage the team?
+- How do you communicate?
+- How big is the team?

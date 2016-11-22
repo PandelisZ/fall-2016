@@ -15,7 +15,8 @@
 
 ## Your Proposal
 
-Taking advantage of the launch of GGO16 at the start of November, we will use this as our month-long collaborative project to encourage exploratory programming -- the core of the hacker culture.
+Taking advantage of the launch of GGO16 at the start of November, we will use this as our month-long collaborative project to encourage exploratory programming -- the core of the hacker culture.
+
 
 
 
@@ -24,7 +25,7 @@ Taking advantage of the launch of GGO16 at the start of November, we will use th
 - **Timing**: We will begin running weekly coding workshops for the student body in Week 5 (due to room booking issues), which will be marketed across the campus to students of all educational backgrounds, to encourage them to try programming. We will begin the idea-generation phase for GGO16 in our CompSoc Meetup at the end of Week 2, and will spend November building the project collaboratively. By Week 6, we will collect the students' ideas and feedback from the program  so that these events can be improved upon, and will then hold Local Hack Day on Dec 3 to implement some of this feedback. At the same time, we can use this opportunity to demonstrate the benefits of the hacker culture to the University, in hopes that they will be more supportive of tech events in the future.
 
 
-- **Community demographics**: By bridging the gap between CompSoc and the entrepreneurial society, Entrepreneurs Durham, I would be able to involve students from business backgrounds in technology, while exposing the technologists to the application of tech in business. Having over a thousand members, Entrepreneurs Durham offers an avenue for marketing and is willing to pool resources with CompSoc in exchange for technical guidance.
+- **Community demographics**: By bridging the gap between CompSoc and the entrepreneurial society, Entrepreneurs Durham, I hope to involve students from business backgrounds in technology, while exposing the technologists to the application of tech in business. Having over a thousand members, Entrepreneurs Durham offers an avenue for marketing and is willing to pool resources with CompSoc in exchange for technical guidance.
 
 
 - **Goals**: By running regular workshops for the community, we would be equipping them with the skills and confidence that they need to take on exploratory programming on their own. Once they have this confidence, they are more likely to build projects, and would not be put off from taking part in hackathons.
@@ -46,10 +47,10 @@ Taking advantage of the launch of GGO16 at the start of November, we will use th
 
 - Resources: Although the venue for our events and the equipment required will be covered by the university, we would still require funding to pay for pizza, which would incentivize participation in our tech events. This money can only be acquired through sponsorship. 
 
-- Media: We have already begun discussing and forming the curriculum for the weekly workshops, which would follow a specific "track", balancing CS fundamentals with rapid prototyping (for the non-technical students who may not necessarily see the importance in understanding CS fundamentals). By familiarizing myself with the content before the presentation itself, I may be better able to answer any of the questions that the students may have about a specific topic. However, I am considering the feasibility of having lecture-style demonstrations that the students can follow, with multiple technical mentors who can help students struggling with the content.
+- Media: We have already begun discussing and forming the curriculum for the weekly workshops, which would follow a specific "track", balancing CS fundamentals with rapid prototyping (for the non-technical students who may not necessarily see the importance in understanding CS fundamentals). By involving the Exec of CompSoc, as a team, we may be better able to answer any of the questions that the students may have about a specific topic. However, we are considering the feasibility of having lecture-style demonstrations that the students can follow, with multiple technical mentors who can help students struggling with the content.
 
 - Content knowledge
-: I am probably underqualified, but can only try my best to help students as much as I can. Fortunately, I do have a Pluralsight subscription that may help me enhance my knowledge. However, time is a resource I struggle with; between University commitments, and extracurricular activities, it is incredibly difficult to spend too much time preparing for these events.
+: I am probably underqualified, but am trying my best to help students as much as I can. I am struggling with time management, though; between University commitments, and extracurricular activities, it is incredibly difficult to spend too much time preparing for these events.
 
 - Timeline
 : The end of Week 2 is the start of GGO2016, allowing us to add this to the agenda for our weekly CompSoc meetups for the next 4 weeks. Preparation for the coding workshops will begin in Week 3, and the coding workshops themselves will be held 
